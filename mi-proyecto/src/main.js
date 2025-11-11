@@ -6,4 +6,4 @@ import 'bootstrap-icons/font/bootstrap-icons.css'
 import 'bootstrap'
 
 createApp(App).use(router).mount('#app')
-
+//historial app
