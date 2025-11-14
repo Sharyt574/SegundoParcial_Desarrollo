@@ -12,7 +12,7 @@ class LocalProductService {
         price: 19.99,
         description: "Camiseta de algodón 100% básica en color negro.",
         category: "men's clothing",
-        image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=300&h=300&fit=crop.jpghttps://n9.cl/qo9a2g",
+        image: "/imagenes/CamisetaBasicaNegra.jpeg",
         size: "M",
         color: "Negro",
         stock: 25
@@ -23,7 +23,7 @@ class LocalProductService {
         price: 49.99,
         description: "Jeans de corte slim fit en color azul oscuro.",
         category: "men's clothing",
-        image: "https://images.unsplash.com/photo-1542272604-787c3835535d?w=300&h=300&fit=crop",
+        image: "/imagenes/JeansSlimFitAzul.jpeg",
         size: "32",
         color: "Azul",
         stock: 15
@@ -34,7 +34,7 @@ class LocalProductService {
         price: 39.99,
         description: "Vestido floral perfecto para el verano.",
         category: "women's clothing",
-        image: "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=300&h=300&fit=crop",
+        image: "/imagenes/VestidoFloralVerano.jpeg",
         size: "S",
         color: "Rosa",
         stock: 20
